@@ -14,5 +14,3 @@ A simple dice-rolling app where tapping on the dice generates random results. Pe
 - Basic Dart concepts like data types and functions
 
 ---
-
-# dicee
